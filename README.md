@@ -1,8 +1,10 @@
 # IDontHateItAttribute Class
-<sub>Reference</sub>
+Reference
 
 ## Definition
-<sub>Namespace: BenMakesGames.IDontHateIt<br />Assembly: BenMakesGames.IDontHateIt.dll</sub>
+Namespace: BenMakesGames.IDontHateIt
+
+Assembly: BenMakesGames.IDontHateIt.dll
 
 Marks the program elements that aren't... _hated_. This class cannot be inherited.
 

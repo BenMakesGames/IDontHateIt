@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace IDontHateIt;
+namespace BenMakesGames.IDontHateIt;
 
 /// <summary>
 /// Marks the program elements that aren't... <em>hated</em>. This class cannot be inherited.

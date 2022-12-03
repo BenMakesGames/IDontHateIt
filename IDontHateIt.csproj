@@ -6,7 +6,7 @@
     <WarningsAsErrors>Nullable</WarningsAsErrors>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/BenMakesGames/BenMakesGames.IDontHateIt</RepositoryUrl>
+    <RepositoryUrl>https://github.com/BenMakesGames/IDontHateIt</RepositoryUrl>
     <Authors>Ben Hendel-Doying</Authors>
     <Company />
     <Copyright>2022 Ben Hendel-Doying</Copyright>
